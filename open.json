@@ -1,0 +1,28 @@
+{
+	"META": {
+		"repoName": "t.me/ttopen",
+		"repoIcon": "https://raw.githubusercontent.com/justofcource/AppsOpenTT/main/204.jpg"
+	},
+	"Tweaked": [{
+		"name": "Tik Tok LRD",
+		"version": "28.4.0 + LRD2.1",
+		"down": " ",
+		"category": "TikTok",
+		"description": "Приложение TikTok с встроенной модификацией LRD.",
+		"icon": "https://github.com/VVW-XX/ICON/blob/main/41.png?raw=true",
+		"banner": "https://github.com/VVW-XX/ICON/blob/main/Banner.png?raw=true",
+		"bundleID": "com.zhiliaoapp.musically",
+		"appstore": "com.zhiliaoapp.musically"
+		
+	}, {
+		"name": "Tik Tok Dark",
+		"version": "28.4.0 + Dark",
+		"down": " ",
+		"category": "TikTok",
+		"description": "Приложение TikTok с встроенной модификацией DARK.",	
+		"icon": "https://github.com/VVW-XX/ICON/blob/main/41.png?raw=true",	
+		"banner": "https://github.com/VVW-XX/ICON/blob/main/Banner.png?raw=true",		
+		"bundleID": "com.zhiliaoapp.musically",	
+		"appstore": "com.zhiliaoapp.musically"
+	}]
+}
