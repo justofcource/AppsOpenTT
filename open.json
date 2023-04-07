@@ -10,7 +10,7 @@
 		"category": "TikTok",
 		"description": "Приложение TikTok с встроенной модификацией LRD.",
 		"icon": "https://github.com/VVW-XX/ICON/blob/main/41.png?raw=true",
-		"banner": "https://github.com/VVW-XX/ICON/blob/main/Banner.png?raw=true",
+		"banner": "https://raw.githubusercontent.com/justofcource/AppsOpenTT/main/Banner.png",
 		"bundleID": "com.zhiliaoapp.musically",
 		"appstore": "com.zhiliaoapp.musically"
 		
@@ -21,7 +21,7 @@
 		"category": "TikTok",
 		"description": "Приложение TikTok с встроенной модификацией DARK.",	
 		"icon": "https://github.com/VVW-XX/ICON/blob/main/41.png?raw=true",	
-		"banner": "https://github.com/VVW-XX/ICON/blob/main/Banner.png?raw=true",		
+		"banner": "https://raw.githubusercontent.com/justofcource/AppsOpenTT/main/Banner.png",		
 		"bundleID": "com.zhiliaoapp.musically",	
 		"appstore": "com.zhiliaoapp.musically"
 	}]
